@@ -1,0 +1,11 @@
+/* src/index.css */
+body {
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+#root {
+  flex-grow: 1;
+}
